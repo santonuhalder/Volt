@@ -442,7 +442,7 @@ http://192.168.1.100
 
 ## ⚡ VOLT vs Other Tools
 
-| Feature | **VOLT v6.0** | WPScan | SQLMap | Hydra |
+| Feature | **VOLT** | WPScan | SQLMap | Hydra |
 |---|:---:|:---:|:---:|:---:|
 | WordPress-specific targeting | ✅ | ✅ | ❌ | ❌ |
 | XML-RPC multicall (8 creds/req) | ✅ | ❌ | ❌ | ❌ |
